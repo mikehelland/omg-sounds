@@ -38,4 +38,57 @@ I had tried DropBox in the past, and they had a "Public" folder at one point tha
 
 So here is a repo for storing the small building blocks of audio that OMG can use to make music.
 
+And below is a list of sites that have been tested.
+
 Feel free to contribute!
+
+----
+
+## Websites that work
+
+GitHub Pages
+
+## Websites that don't work
+
+### login to download
+
+https://freesound.org/
+https://www.zapsplat.com/
+https://www.soundeffectsplus.com
+https://www.audioblocks.com
+https://www.soundsnap.com
+https://www.audiomicro.com
+https://www.freesfx.co.uk
+http://www.soundgator.com
+https://www.soundeffectsforfree.com
+
+
+### links, but no cors or https
+
+http://soundbible.com
+https://www.pacdv.com/
+https://www.soundjay.com
+http://www.moviewavs.com
+http://wav-sounds.com/
+http://www.wavsource.com
+http://www.talkingwav.com
+http://www.dailywav.com
+https://www.noiseforfun.com
+http://bbcsfx.acropolis.org.uk
+http://www.grsites.com/archive/sounds/
+https://www.partnersinrhyme.com/pir/PIRsfx.shtml
+http://www.findsounds.com
+
+### zip files
+
+http://www.orangefreesounds.com
+https://www.sounds4email.com/
+
+### URLs misdirected?
+
+https://www.freesoundeffects.com
+
+
+
+
+
