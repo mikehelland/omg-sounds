@@ -1,0 +1,464 @@
+[
+  {
+    "data": [
+      {
+        "url": "kick",
+        "name": "Kick"
+      },
+      {
+        "url": "snare",
+        "name": "Snare"
+      },
+      {
+        "url": "hihat",
+        "name": "HiHat"
+      },
+      {
+        "url": "tom1",
+        "name": "Tom1"
+      },
+      {
+        "url": "tom2",
+        "name": "Tom2"
+      },
+      {
+        "url": "tom3",
+        "name": "Tom3"
+      }
+    ],
+    "name": "Roland CR-78",
+    "type": "SOUNDSET",
+    "prefix": "https://cwilso.github.io/MIDIDrums/sounds/drum-samples/CR78/",
+    "postfix": ".wav",
+    "defaultSurface": "PRESET_SEQUENCER"
+  },
+  {
+    "data": [
+      {
+        "url": "kick",
+        "name": "Kick"
+      },
+      {
+        "url": "snare",
+        "name": "Snare"
+      },
+      {
+        "url": "hihat",
+        "name": "HiHat"
+      },
+      {
+        "url": "tom1",
+        "name": "Tom1"
+      },
+      {
+        "url": "tom2",
+        "name": "Tom2"
+      },
+      {
+        "url": "tom3",
+        "name": "Tom3"
+      }
+    ],
+    "name": "Korg KPR-77",
+    "type": "SOUNDSET",
+    "prefix": "https://cwilso.github.io/MIDIDrums/sounds/drum-samples/KPR77/",
+    "postfix": ".wav",
+    "defaultSurface": "PRESET_SEQUENCER"
+  },
+  {
+    "data": [
+      {
+        "url": "kick",
+        "name": "Kick"
+      },
+      {
+        "url": "snare",
+        "name": "Snare"
+      },
+      {
+        "url": "hihat",
+        "name": "HiHat"
+      },
+      {
+        "url": "tom1",
+        "name": "Tom1"
+      },
+      {
+        "url": "tom2",
+        "name": "Tom2"
+      },
+      {
+        "url": "tom3",
+        "name": "Tom3"
+      }
+    ],
+    "name": "LinnDrum",
+    "type": "SOUNDSET",
+    "prefix": "https://cwilso.github.io/MIDIDrums/sounds/drum-samples/LINN/",
+    "postfix": ".wav",
+    "defaultSurface": "PRESET_SEQUENCER"
+  },
+  {
+    "data": [
+      {
+        "url": "kick",
+        "name": "Kick"
+      },
+      {
+        "url": "snare",
+        "name": "Snare"
+      },
+      {
+        "url": "hihat",
+        "name": "HiHat"
+      },
+      {
+        "url": "tom1",
+        "name": "Tom1"
+      },
+      {
+        "url": "tom2",
+        "name": "Tom2"
+      },
+      {
+        "url": "tom3",
+        "name": "Tom3"
+      }
+    ],
+    "name": "Kit 3",
+    "type": "SOUNDSET",
+    "prefix": "https://cwilso.github.io/MIDIDrums/sounds/drum-samples/Kit3/",
+    "postfix": ".wav",
+    "defaultSurface": "PRESET_SEQUENCER"
+  },
+  {
+    "data": [
+      {
+        "url": "kick",
+        "name": "Kick"
+      },
+      {
+        "url": "snare",
+        "name": "Snare"
+      },
+      {
+        "url": "hihat",
+        "name": "HiHat"
+      },
+      {
+        "url": "tom1",
+        "name": "Tom1"
+      },
+      {
+        "url": "tom2",
+        "name": "Tom2"
+      },
+      {
+        "url": "tom3",
+        "name": "Tom3"
+      }
+    ],
+    "name": "Kit 8",
+    "type": "SOUNDSET",
+    "prefix": "https://cwilso.github.io/MIDIDrums/sounds/drum-samples/Kit8/",
+    "postfix": ".wav",
+    "defaultSurface": "PRESET_SEQUENCER"
+  },
+  {
+    "data": [
+      {
+        "url": "kick",
+        "name": "Kick"
+      },
+      {
+        "url": "snare",
+        "name": "Snare"
+      },
+      {
+        "url": "hihat",
+        "name": "HiHat"
+      },
+      {
+        "url": "tom1",
+        "name": "Tom1"
+      },
+      {
+        "url": "tom2",
+        "name": "Tom2"
+      },
+      {
+        "url": "tom3",
+        "name": "Tom3"
+      }
+    ],
+    "name": "Techno",
+    "type": "SOUNDSET",
+    "prefix": "https://cwilso.github.io/MIDIDrums/sounds/drum-samples/Techno/",
+    "postfix": ".wav",
+    "defaultSurface": "PRESET_SEQUENCER"
+  },
+  {
+    "data": [
+      {
+        "url": "kick",
+        "name": "Kick"
+      },
+      {
+        "url": "snare",
+        "name": "Snare"
+      },
+      {
+        "url": "hihat",
+        "name": "HiHat"
+      },
+      {
+        "url": "tom1",
+        "name": "Tom1"
+      },
+      {
+        "url": "tom2",
+        "name": "Tom2"
+      },
+      {
+        "url": "tom3",
+        "name": "Tom3"
+      }
+    ],
+    "name": "Stark",
+    "type": "SOUNDSET",
+    "prefix": "https://cwilso.github.io/MIDIDrums/sounds/drum-samples/Stark/",
+    "postfix": ".wav",
+    "defaultSurface": "PRESET_SEQUENCER"
+  },
+  {
+    "data": [
+      {
+        "url": "kick",
+        "name": "Kick"
+      },
+      {
+        "url": "snare",
+        "name": "Snare"
+      },
+      {
+        "url": "hihat",
+        "name": "HiHat"
+      },
+      {
+        "url": "tom1",
+        "name": "Tom1"
+      },
+      {
+        "url": "tom2",
+        "name": "Tom2"
+      },
+      {
+        "url": "tom3",
+        "name": "Tom3"
+      }
+    ],
+    "name": "Breakbeat 8",
+    "type": "SOUNDSET",
+    "prefix": "https://cwilso.github.io/MIDIDrums/sounds/drum-samples/breakbeat8/",
+    "postfix": ".wav",
+    "defaultSurface": "PRESET_SEQUENCER"
+  },
+  {
+    "data": [
+      {
+        "url": "kick",
+        "name": "Kick"
+      },
+      {
+        "url": "snare",
+        "name": "Snare"
+      },
+      {
+        "url": "hihat",
+        "name": "HiHat"
+      },
+      {
+        "url": "tom1",
+        "name": "Tom1"
+      },
+      {
+        "url": "tom2",
+        "name": "Tom2"
+      },
+      {
+        "url": "tom3",
+        "name": "Tom3"
+      }
+    ],
+    "name": "Breakbeat 9",
+    "type": "SOUNDSET",
+    "prefix": "https://cwilso.github.io/MIDIDrums/sounds/drum-samples/breakbeat9/",
+    "postfix": ".wav",
+    "defaultSurface": "PRESET_SEQUENCER"
+  },
+  {
+    "data": [
+      {
+        "url": "kick",
+        "name": "Kick"
+      },
+      {
+        "url": "snare",
+        "name": "Snare"
+      },
+      {
+        "url": "hihat",
+        "name": "HiHat"
+      },
+      {
+        "url": "tom1",
+        "name": "Tom1"
+      },
+      {
+        "url": "tom2",
+        "name": "Tom2"
+      },
+      {
+        "url": "tom3",
+        "name": "Tom3"
+      }
+    ],
+    "name": "Breakbeat 13",
+    "type": "SOUNDSET",
+    "prefix": "https://cwilso.github.io/MIDIDrums/sounds/drum-samples/breakbeat13/",
+    "postfix": ".wav",
+    "defaultSurface": "PRESET_SEQUENCER"
+  },
+  {
+    "data": [
+      {
+        "url": "kick",
+        "name": "Kick"
+      },
+      {
+        "url": "snare",
+        "name": "Snare"
+      },
+      {
+        "url": "hihat",
+        "name": "HiHat"
+      },
+      {
+        "url": "tom1",
+        "name": "Tom1"
+      },
+      {
+        "url": "tom2",
+        "name": "Tom2"
+      },
+      {
+        "url": "tom3",
+        "name": "Tom3"
+      }
+    ],
+    "name": "Acoustic Kit",
+    "type": "SOUNDSET",
+    "prefix": "https://cwilso.github.io/MIDIDrums/sounds/drum-samples/acoustic-kit/",
+    "postfix": ".wav",
+    "defaultSurface": "PRESET_SEQUENCER"
+  },
+  {
+    "data": [
+      {
+        "url": "kick",
+        "name": "Kick"
+      },
+      {
+        "url": "snare",
+        "name": "Snare"
+      },
+      {
+        "url": "hihat",
+        "name": "HiHat"
+      },
+      {
+        "url": "tom1",
+        "name": "Tom1"
+      },
+      {
+        "url": "tom2",
+        "name": "Tom2"
+      },
+      {
+        "url": "tom3",
+        "name": "Tom3"
+      }
+    ],
+    "name": "4OP-FM",
+    "type": "SOUNDSET",
+    "prefix": "https://cwilso.github.io/MIDIDrums/sounds/drum-samples/4OP-FM/",
+    "postfix": ".wav",
+    "defaultSurface": "PRESET_SEQUENCER"
+  },
+  {
+    "data": [
+      {
+        "url": "kick",
+        "name": "Kick"
+      },
+      {
+        "url": "snare",
+        "name": "Snare"
+      },
+      {
+        "url": "hihat",
+        "name": "HiHat"
+      },
+      {
+        "url": "tom1",
+        "name": "Tom1"
+      },
+      {
+        "url": "tom2",
+        "name": "Tom2"
+      },
+      {
+        "url": "tom3",
+        "name": "Tom3"
+      }
+    ],
+    "name": "The Cheebacabra 1",
+    "type": "SOUNDSET",
+    "prefix": "https://cwilso.github.io/MIDIDrums/sounds/drum-samples/TheCheebacabra1/",
+    "postfix": ".wav",
+    "defaultSurface": "PRESET_SEQUENCER"
+  },
+  {
+    "data": [
+      {
+        "url": "kick",
+        "name": "Kick"
+      },
+      {
+        "url": "snare",
+        "name": "Snare"
+      },
+      {
+        "url": "hihat",
+        "name": "HiHat"
+      },
+      {
+        "url": "tom1",
+        "name": "Tom1"
+      },
+      {
+        "url": "tom2",
+        "name": "Tom2"
+      },
+      {
+        "url": "tom3",
+        "name": "Tom3"
+      }
+    ],
+    "name": "The Cheebacabra 2",
+    "type": "SOUNDSET",
+    "prefix": "https://cwilso.github.io/MIDIDrums/sounds/drum-samples/TheCheebacabra2/",
+    "postfix": ".wav",
+    "defaultSurface": "PRESET_SEQUENCER"
+  }
+]
