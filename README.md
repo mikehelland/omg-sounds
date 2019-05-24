@@ -50,43 +50,43 @@ GitHub Pages
 
 ## Websites that don't work
 
-### login to download
+### requires login
 
-https://freesound.org/
-https://www.zapsplat.com/
-https://www.soundeffectsplus.com
-https://www.audioblocks.com
-https://www.soundsnap.com
-https://www.audiomicro.com
-https://www.freesfx.co.uk
-http://www.soundgator.com
-https://www.soundeffectsforfree.com
+https://freesound.org/  
+https://www.zapsplat.com/  
+https://www.soundeffectsplus.com  
+https://www.audioblocks.com  
+https://www.soundsnap.com  
+https://www.audiomicro.com  
+https://www.freesfx.co.uk  
+http://www.soundgator.com  
+https://www.soundeffectsforfree.com  
 
 
-### links, but no cors or https
+### no https or cors
 
-http://soundbible.com
-https://www.pacdv.com/
-https://www.soundjay.com
-http://www.moviewavs.com
-http://wav-sounds.com/
-http://www.wavsource.com
-http://www.talkingwav.com
-http://www.dailywav.com
-https://www.noiseforfun.com
-http://bbcsfx.acropolis.org.uk
-http://www.grsites.com/archive/sounds/
-https://www.partnersinrhyme.com/pir/PIRsfx.shtml
-http://www.findsounds.com
+http://soundbible.com  
+https://www.pacdv.com/  
+https://www.soundjay.com  
+http://www.moviewavs.com  
+http://wav-sounds.com/  
+http://www.wavsource.com  
+http://www.talkingwav.com  
+http://www.dailywav.com  
+https://www.noiseforfun.com  
+http://bbcsfx.acropolis.org.uk  
+http://www.grsites.com/archive/sounds/  
+https://www.partnersinrhyme.com/pir/PIRsfx.shtml  
+http://www.findsounds.com  
 
 ### zip files
 
-http://www.orangefreesounds.com
-https://www.sounds4email.com/
+http://www.orangefreesounds.com  
+https://www.sounds4email.com/  
 
 ### URLs misdirected?
 
-https://www.freesoundeffects.com
+https://www.freesoundeffects.com  
 
 
 
